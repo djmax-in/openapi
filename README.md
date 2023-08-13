@@ -8,4 +8,5 @@ https://v-archive.net/db/boards.json
 [POST /client/open/{userNo}/score](https://github.com/djmax-in/openapi/wiki/%EA%B8%B0%EB%A1%9D-%EB%93%B1%EB%A1%9D-API)
 ## 성과표 조회 API
 [GET  /api/archive/{nickname}/board/{button}/{board}](https://github.com/djmax-in/openapi/wiki/%EC%9C%A0%EC%A0%80-%EC%84%B1%EA%B3%BC%ED%91%9C-%EC%A1%B0%ED%9A%8C-API)
-
+## 티어 조회 API
+[GET /api/archive/{nickname}/tier/{button}](https://github.com/djmax-in/openapi/wiki/%EC%9C%A0%EC%A0%80-%ED%8B%B0%EC%96%B4-%EC%A1%B0%ED%9A%8C-API)
