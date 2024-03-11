@@ -10,3 +10,5 @@ https://v-archive.net/db/boards.json
 [GET  /api/archive/{nickname}/board/{button}/{board}](https://github.com/djmax-in/openapi/wiki/%EC%9C%A0%EC%A0%80-%EC%84%B1%EA%B3%BC%ED%91%9C-%EC%A1%B0%ED%9A%8C-API)
 ## 티어 조회 API
 [GET /api/archive/{nickname}/tier/{button}](https://github.com/djmax-in/openapi/wiki/%EC%9C%A0%EC%A0%80-%ED%8B%B0%EC%96%B4-%EC%A1%B0%ED%9A%8C-API)
+## 유저 곡별 기록 조회 API
+[GET /api/archive/{nickname}/title/{titleNum}](https://github.com/djmax-in/openapi/wiki/%EC%9C%A0%EC%A0%80-%EA%B3%A1%EB%B3%84-%EA%B8%B0%EB%A1%9D-%EC%A1%B0%ED%9A%8C-API)
