@@ -1,7 +1,7 @@
-# V-ARCHIVE API
-게임 DJMAX RESPECT V의 웹기반 성과 관리 도구인 V-ARCHIVE의 OPEN API를 정리한 문서
+# V-ARCHIVE OPEN API
+게임 DJMAX RESPECT V의 웹기반 성과 관리 도구인 V-ARCHIVE의 OPEN API 문서를 정리한 git 저장소
 
-# OPEN API 위키
+# 문서(위키)
 https://github.com/djmax-in/openapi/wiki
 
 # 변경 내역
